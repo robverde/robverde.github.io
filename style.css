@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #003366, #0066cc);
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+header {
+    padding: 50px;
+    background: #002244;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    margin: 0 20px;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+section {
+    padding: 50px;
+}
+footer {
+    padding: 20px;
+    background: #001122;
+}
+a {
+    color: #00ccff;
+}
